@@ -2,3 +2,8 @@ Lalala
 lalala
 pam
 pam
+
+do
+re
+mi
+fa
