@@ -6,4 +6,7 @@ pam
 novyi den novyi den
 novaya stroka
 
+
 davai napishem cho-to eshe
+
+taram param
