@@ -7,3 +7,4 @@ pam
 
 novyi den novyi den
 novaya stroka
+taram param
