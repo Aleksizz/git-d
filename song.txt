@@ -9,3 +9,4 @@ mi
 fa
 
 novyi den novyi den
+novaya stroka
